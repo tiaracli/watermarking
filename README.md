@@ -355,5 +355,5 @@ PSNR watermarked : 51.28 dB
    20         85.1%    0.4038       36.45  HILANG
    10         85.1%    0.4038       33.35  HILANG
 
-=> Watermark rusak pada QF <= 20  (akurasi bit < 90%)
+=> Watermark rusak pada QF <= 20  (akurasi bit < 90%) 
 ```
